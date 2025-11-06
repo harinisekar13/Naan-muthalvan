@@ -1,4 +1,5 @@
-# Naan-muthalvan
+# Naan-muthalvan- CRM APPLICATION FOR JEWEL MANAGEMENT
+
 Introduction
 
 The CRM Application for Jewel Management is a Salesforce-based system designed to automate and streamline jewelry business operations — including inventory tracking, billing, and customer management.
